@@ -1,5 +1,3 @@
-# agriculture_in_federal_districts
-Analysis of agriculture indicators among Russian Federal Districts
 # Grain Sector of Russia (2016)
 
 Analysis and comparative visualization of key grain crop metrics — sown areas, gross harvest volumes, and productivity across Russian federal districts using official Rosstat data.
